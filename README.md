@@ -79,20 +79,17 @@ Het koste mij wel wat tijd om echt op te starten met mijn website. Toen ik bezig
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Nigel          | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| Opstarten      | Flexbox            | en ik dit    | en dan ik dat    |
-| Flexbox        |                    | nog een punt | dit wil ik zeker |
+|                | Flexbox            | en ik dit    | en dan ik dat    |
+| Flexbox        | Opstarten          | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Tijdens de meeting heb ik te horen gekregen dat mijn Github niet helemaal klopt. Dit heb ik tijdens de meeting opgelost.
 
 </details>
 
@@ -106,16 +103,20 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Week 3 heb ik heel wat voortgang gemaakt meet mijn website. Het is me gelukt om de hele basis van de website in elkaar te zetten. Ik weet alleen niet zo goed wat de volgende stap is, dat is wat ik wil bespreken in de meeting. Veel van mijn website heb ik gemaakt met grid met een combinatie van flexbox.
+<img src="images/voorgang1.png" width="375px" alt="Flex in combinatie met grid">
+Alle verschillende articles heb ik naast elkaar gezet met grid, en alles wat daar in zit heb ik opgelost met flexbox.
+
+Ook waar ik even op vast liep was mijn menu. Dit is een dropdown menu die onder de header valt. Ik wou dit oplossen met z-index, maar dit werkte niet. Wat er mis was is dat er geen position op de header zat, daarom werkte het niet.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Nigel          | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| Volgende stap  | en dit             | en ik dit    | en dan ik dat    |
+|                | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
