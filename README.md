@@ -162,7 +162,7 @@ Een manier hoe je gelijk weer terug kan naar het menu met de druk van een knop.
 #### Testen met verschillende brillen 
 Eerst heb ik getest met een bril die de kleuren aanpast. Het contrast word soms minder, maar alles is nog leesbaar.
 
-<img src="images/testenafb3.png" width="375px" alt="testen met menu">
+<img src="images/testenafb3.jpg" width="375px" alt="testen met menu">
 
 Met de bril die je zicht verminderd is nog steeds alles te zien, het is wel minder scherp.
 
