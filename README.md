@@ -104,7 +104,7 @@ Tijdens de meeting heb ik te horen gekregen dat mijn Github niet helemaal klopt.
 
 ### Stand van zaken
 Week 3 heb ik heel wat voortgang gemaakt meet mijn website. Het is me gelukt om de hele basis van de website in elkaar te zetten. Ik weet alleen niet zo goed wat de volgende stap is, dat is wat ik wil bespreken in de meeting. Veel van mijn website heb ik gemaakt met grid met een combinatie van flexbox.
-<img src="images/voorgang1.png" width="375px" alt="Flex in combinatie met grid">
+<img src="images/voortgang1.png" width="375px" alt="Flex in combinatie met grid">
 Alle verschillende articles heb ik naast elkaar gezet met grid, en alles wat daar in zit heb ik opgelost met flexbox.
 
 Ook waar ik even op vast liep was mijn menu. Dit is een dropdown menu die onder de header valt. Ik wou dit oplossen met z-index, maar dit werkte niet. Wat er mis was is dat er geen position op de header zat, daarom werkte het niet.
@@ -142,28 +142,37 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Gebruik van toetsenbord met screenreader
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Je kan met de tab toets door de hele website heen scrollen. De linkes worden uitgelezen opgelzen met de screenreader. Je kan met de meer knop het dropdown menu openen, maar het is lastig om terug naar de menu knop te gaan om dit menu weer te sluiten. Ook elke keer als hij over een artiekel heen gaat wordt dit genoemd.
 
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Een mogelijkheid om met een toets het menu te sluiten, of om terug te komen naar de knop om het te sluiten.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+<img src="images/testenafb2.png" width="375px" alt="testen met menu">
+
+<img src="images/testenafb1.png" width="375px" alt="testen met menu">
+
+#### Naivgeren met toetsenbord
+Er is geen mogelijkheid om terug te gaan naar het menu van de pagina. Als je dus met je tab toets verder gaat naar de artiekelen moet je de hele pagina door of terug om bij het menu te komen, of de pagina refreshen.
+
+Een manier hoe je gelijk weer terug kan naar het menu met de druk van een knop.
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Testen met verschillende brillen 
+Eerst heb ik getest met een bril die de kleuren aanpast. Het contrast word soms minder, maar alles is nog leesbaar.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+<img src="images/testenafb3.png" width="375px" alt="testen met menu">
+
+Met de bril die je zicht verminderd is nog steeds alles te zien, het is wel minder scherp.
+
+Met de bril die alles minder scherp maakt is eigenlijk niks meer te zien van de website, ook als de letters groter worden, of als het contrast veranderd. Op dit moment kan je beter de screen reader gebruiken.
+
+
+#### Testen met elektrische simulator
+Bij het gebruiken van de simulator is het lastig om op kleine linkjes te klikken. Ook het gebruiken van het toetsenbord is lastig.
+
+De zouden misschien iets groter kunnen.
 
 </details>
 
