@@ -12,7 +12,6 @@
   --text-color: black;
   --secondary-color:#1f2544;
   
-
   --max-grootte: 900px;
 }
 
@@ -389,6 +388,44 @@ section:nth-of-type(4) > a {
   color: var(--text-color);
 }
 
+
+
+
+
+/* Login scherm */
+.login form > section {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.login form {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-gap: 1em;
+  max-width: 25em;
+  margin: 0 auto 5em auto;
+}
+
+.login form input {
+  border: 1px solid var(--border-color);
+  padding: .8em;
+  border-radius: .3em ;
+  width: 100%;
+}
+
+
+input[type="submit"], input[type="button"] {
+  width: 100%;
+  border-radius: 2em;
+  padding: .8em;
+  color: var(--txtbg-color);
+  background-color: var(--secondary-color);
+  transition: .5s;
+}
+
+input[type="submit"]:hover, input[type="button"]:hover {
+  background-color: var(--border-color);
+}
 
 
 

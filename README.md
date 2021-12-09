@@ -186,15 +186,16 @@ De zouden misschien iets groter kunnen.
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Deze week heb ik veel gewerkt aan de content van de pagina. Ik had eerst alleen maar placeholder images en tekst. Dit heb ik vervangen door echte content. Ik dacht dat dit nog wel wat voor problemen zou zorgen. Dat bijvoorbeelden dingen naar onder werden gezet, maar dit gebeurde gelukkig niet. Verder heb ik de toegankelijkstest gedaan en ervoor gezorgt dat eigenlijk alles van de pagina is te bedienen met de tab toets.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Nigel          | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+| bediening met  |
+| tab toets      | en dit             | en ik dit    | en dan ik dat    |
 | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
@@ -238,8 +239,8 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
+1. https://www.nu.nl/     | Als pagina 1 van mijn website, en de login pagina als pagina 2
+2. 
 3. ...
 
 </details>
