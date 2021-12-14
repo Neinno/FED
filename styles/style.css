@@ -36,6 +36,11 @@ a {
   color: var(--text-color);
 }
 
+section a:focus {
+  transition: .8s;
+  transform: scale(1.02);
+}
+
 
 
 
@@ -90,6 +95,11 @@ header nav li a:hover {
   border-bottom: 1px solid var(--border-color);
 }
 
+header nav li a:focus {
+  font-size: 1.1em;
+  border-bottom: 1px solid var(--border-color);
+}
+
 body > nav {
   background-color: var(--main-color);
 }
@@ -113,6 +123,19 @@ body > nav:nth-of-type(1) ul {
   list-style: none;
 }
 
+@keyframes spin {
+  from {transform:rotate(0deg);}
+  to {transform:rotate(360deg);}
+}
+
+body > nav:nth-of-type(1) ul li:hover {
+  animation: spin 1s;
+}
+
+body > nav:nth-of-type(1) ul li a:focus {
+  text-decoration: underline;
+}
+
 body > nav:nth-of-type(1) ul li:first-of-type {
   margin-right: auto;
 }
@@ -132,21 +155,28 @@ body > form {
   overflow: scroll;
 }
 
-body >form h2 {
-  margin-bottom: .5em;
+body > form h2 {
   color: var(--secondary-color);
+  margin: 0 auto 0.5em auto;
+  max-width: var(--max-grootte);
 }
 
 body > form ul {
-  margin-bottom: 2em;
+  margin: 0 auto 2em auto;
+  max-width: var(--max-grootte);
 }
 
 body > form li {
   list-style: none;
+  transition: .2s;
 }
 
 body > form.showMenu {
   transform: translateY(0);
+}
+
+body > form li:hover {
+  font-size: 1.1em;
 }
 
 
@@ -409,7 +439,6 @@ section:nth-of-type(4) > a {
 .login form input {
   border: 1px solid var(--border-color);
   padding: .8em;
-  border-radius: .3em ;
   width: 100%;
 }
 
@@ -424,6 +453,16 @@ input[type="submit"], input[type="button"] {
 }
 
 input[type="submit"]:hover, input[type="button"]:hover {
+  background-color: var(--border-color);
+}
+
+input[type="submit"]:focus, input[type="button"]:focus {
+  transform: scale(1);
+  background-color: var(--border-color);
+}
+
+input[type="submit"]:active, input[type="button"]:active {
+  transform: scale(.95);
   background-color: var(--border-color);
 }
 
@@ -450,4 +489,13 @@ footer nav ul {
 
 footer nav ul:first-of-type {
   font-weight: 600;
+}
+
+footer nav ul li:hover {
+  font-size: 1.1em;
+}
+
+footer nav ul li a:focus{
+  font-size: 1.1em;
+  text-decoration: underline;
 }

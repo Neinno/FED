@@ -201,12 +201,7 @@ samen met je groepje opstellen
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Ik heb te horen gekregen dat ik moet gaan kijken naar :focus-within om het probleem met de tab toets op te lossen.
 
 </details>
 
@@ -220,11 +215,23 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het maken van NU.nl was eigenlijk erg goed te doen. Ik heb veel gebruik gemaakt van de display flex en grid om dit voor elkaar te krijgen. Ik heb ervoor gekozen om mijn website responsive te maken, dit is wel redelijk gelukt. Ik heb alleen geen gebruik gemaakt van media query's om dit te doen. Verder had ik mezelf wel iets meer kunnen uitdagen, want ik had er niet heel veel moeite mee. 
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
+<img src="images/resultaat1" width="375px" alt="Eindresultaat">
+
+<img src="images/resultaat2" width="375px" alt="Eindresultaat">
+
+<img src="images/resultaat3" width="375px" alt="Eindresultaat">
+
+<img src="images/resultaat4" width="375px" alt="Eindresultaat">
+
+<img src="images/resultaat5" width="375px" alt="Eindresultaat">
+
+<img src="images/resultaat6" width="375px" alt="Eindresultaat">
+
 
 </details>
 
@@ -237,10 +244,8 @@ hier screenshot(s) van je eindresultaat
 <details open>
 <summary>continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
 1. https://www.nu.nl/     | Als pagina 1 van mijn website, en de login pagina als pagina 2
-2. 
-3. ...
+2.  https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/  | Om meer te weten to komen over Grid
+3. https://css-tricks.com/snippets/css/a-guide-to-flexbox/   | Voor Flexbox
 
 </details>
