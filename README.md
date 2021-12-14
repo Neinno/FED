@@ -220,17 +220,17 @@ Het maken van NU.nl was eigenlijk erg goed te doen. Ik heb veel gebruik gemaakt 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
-<img src="images/resultaat1" width="375px" alt="Eindresultaat">
+<img src="images/resultaat1.png" width="375px" alt="Eindresultaat">
 
-<img src="images/resultaat2" width="375px" alt="Eindresultaat">
+<img src="images/resultaat2.png" width="375px" alt="Eindresultaat">
 
-<img src="images/resultaat3" width="375px" alt="Eindresultaat">
+<img src="images/resultaat3.png" width="375px" alt="Eindresultaat">
 
-<img src="images/resultaat4" width="375px" alt="Eindresultaat">
+<img src="images/resultaat.png4" width="375px" alt="Eindresultaat">
 
-<img src="images/resultaat5" width="375px" alt="Eindresultaat">
+<img src="images/resultaat5.png" width="375px" alt="Eindresultaat">
 
-<img src="images/resultaat6" width="375px" alt="Eindresultaat">
+<img src="images/resultaat6.png" width="375px" alt="Eindresultaat">
 
 
 </details>

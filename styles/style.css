@@ -123,6 +123,7 @@ body > nav:nth-of-type(1) ul {
   list-style: none;
 }
 
+/* Keyframe animatie om linkjes rond te laten draaien */
 @keyframes spin {
   from {transform:rotate(0deg);}
   to {transform:rotate(360deg);}
@@ -140,6 +141,7 @@ body > nav:nth-of-type(1) ul li:first-of-type {
   margin-right: auto;
 }
 
+/* CSS voor het dropdown menu */
 body > form {
 	position: fixed;
 	top:0;
@@ -442,7 +444,7 @@ section:nth-of-type(4) > a {
   width: 100%;
 }
 
-
+/* Voor forum buttons */
 input[type="submit"], input[type="button"] {
   width: 100%;
   border-radius: 2em;
