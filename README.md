@@ -104,7 +104,11 @@ Tijdens de meeting heb ik te horen gekregen dat mijn Github niet helemaal klopt.
 
 ### Stand van zaken
 Week 3 heb ik heel wat voortgang gemaakt meet mijn website. Het is me gelukt om de hele basis van de website in elkaar te zetten. Ik weet alleen niet zo goed wat de volgende stap is, dat is wat ik wil bespreken in de meeting. Veel van mijn website heb ik gemaakt met grid met een combinatie van flexbox.
+
+
 <img src="images/voortgang1.png" width="375px" alt="Flex in combinatie met grid">
+
+
 Alle verschillende articles heb ik naast elkaar gezet met grid, en alles wat daar in zit heb ik opgelost met flexbox.
 
 Ook waar ik even op vast liep was mijn menu. Dit is een dropdown menu die onder de header valt. Ik wou dit oplossen met z-index, maar dit werkte niet. Wat er mis was is dat er geen position op de header zat, daarom werkte het niet.
@@ -164,6 +168,7 @@ Eerst heb ik getest met een bril die de kleuren aanpast. Het contrast word soms 
 
 <img src="images/testenafb3.jpg" width="375px" alt="testen met menu">
 
+
 Met de bril die je zicht verminderd is nog steeds alles te zien, het is wel minder scherp.
 
 Met de bril die alles minder scherp maakt is eigenlijk niks meer te zien van de website, ook als de letters groter worden, of als het contrast veranderd. Op dit moment kan je beter de screen reader gebruiken.
@@ -220,13 +225,15 @@ Het maken van NU.nl was eigenlijk erg goed te doen. Ik heb veel gebruik gemaakt 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
+
+
 <img src="images/resultaat1.png" width="375px" alt="Eindresultaat">
 
 <img src="images/resultaat2.png" width="375px" alt="Eindresultaat">
 
 <img src="images/resultaat3.png" width="375px" alt="Eindresultaat">
 
-<img src="images/resultaat.png" width="375px" alt="Eindresultaat">
+<img src="images/resultaat4.png" width="375px" alt="Eindresultaat">
 
 <img src="images/resultaat5.png" width="375px" alt="Eindresultaat">
 
