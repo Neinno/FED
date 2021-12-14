@@ -226,7 +226,7 @@ hier screenshot(s) van je eindresultaat
 
 <img src="images/resultaat3.png" width="375px" alt="Eindresultaat">
 
-<img src="images/resultaat.png4" width="375px" alt="Eindresultaat">
+<img src="images/resultaat.png" width="375px" alt="Eindresultaat">
 
 <img src="images/resultaat5.png" width="375px" alt="Eindresultaat">
 
