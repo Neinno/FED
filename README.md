@@ -239,6 +239,8 @@ Tijdens het eindgesprek kreeg ik te horen dat mijn website nog niet voldoende is
 Om dit nu te verbeteren wil ik alle puntjes aanpakken. Ik ga meer verschillende content toeveogen en de site beter responsive maken.
 </details>
 
+## Herkansing (26 januari 2022)
+
 <details>
 <summary>Herkansing</summary>
 
