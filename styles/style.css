@@ -188,6 +188,15 @@ body > nav {
   background-color: var(--main-color);
 }
 
+body > nav ul li:first-of-type {
+  display: flex;
+}
+
+body > nav ul li img {
+  height: 1em;
+  margin-right: .5em;
+}
+
 .navToggle.showNav {
   position: sticky;
   top:0;
