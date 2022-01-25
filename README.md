@@ -40,10 +40,12 @@ https://www.nu.nl/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Algemeen
+
 <img src="images/screenone.png" width="375px" alt="Hoofd pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Login pagina 
+
 <img src="images/screentwo.png" width="375px" alt="Login">
  
 </details>
@@ -79,15 +81,14 @@ Het koste mij wel wat tijd om echt op te starten met mijn website. Toen ik bezig
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Nigel          | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-|                | Flexbox            | en ik dit    | en dan ik dat    |
-| Flexbox        | Opstarten          | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Nigel          | student 2          |
+| ---            | ---                |
+|                | Flexbox            | 
+| Flexbox        | Opstarten          | 
+| ...            | ...                | 
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
 
 Tijdens de meeting heb ik te horen gekregen dat mijn Github niet helemaal klopt. Dit heb ik tijdens de meeting opgelost.
 
@@ -117,20 +118,9 @@ Ook waar ik even op vast liep was mijn menu. Dit is een dropdown menu die onder 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Nigel          | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| Volgende stap  | en dit             | en ik dit    | en dan ik dat    |
-|                | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Ik had zelf geen vragen tijdens de meeting. Ik heb mijn voortgang besproken en kan weer verder met mijn opdracht. Ook de rest van mijn groepje hadden geen specifieke vragen.
 
 </details>
 
@@ -177,7 +167,11 @@ Met de bril die alles minder scherp maakt is eigenlijk niks meer te zien van de 
 #### Testen met elektrische simulator
 Bij het gebruiken van de simulator is het lastig om op kleine linkjes te klikken. Ook het gebruiken van het toetsenbord is lastig.
 
-De zouden misschien iets groter kunnen.
+De menu knoppen zouden misschien iets groter kunnen.
+
+#### Conclusie
+
+Over het algemeen is de site redelijk toegankelijk. Het gebruik van de screenreader is werkt en ook is de website erg goed te bedienen met de tab toets. Omdat je nog door het hele menu heen gaat is het misschien een oplossing om een knop toe te voegen met :focus die je gelijk naar de content brengt. Omdat het zwarte tekst op een witte achtergrond is werkt dit erg goed met verschillende brillen. Hier wil ik niks aan veranderen.
 
 </details>
 
@@ -197,12 +191,12 @@ Deze week heb ik veel gewerkt aan de content van de pagina. Ik had eerst alleen 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Nigel          | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
+| Nigel          |
+| ---            | 
 | bediening met  |
-| tab toets      | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| tab toets      |
+|                | 
+|                | 
 
 
 ### Verslag van meeting
@@ -239,9 +233,57 @@ hier screenshot(s) van je eindresultaat
 
 <img src="images/resultaat6.png" width="375px" alt="Eindresultaat">
 
+### Conclusie
+Tijdens het eindgesprek kreeg ik te horen dat mijn website nog niet voldoende is. Ik zou de website responsive maken, maar dit was nog niet helemaal gedaan zoals verwacht werd. Ook de content kan wel wat meer, want alles lijkt op elkaar. Het zijn allemaal plaatjes met een stukje tekst erbij. 
 
+Om dit nu te verbeteren wil ik alle puntjes aanpakken. Ik ga meer verschillende content toeveogen en de site beter responsive maken.
 </details>
 
+<details>
+<summary>Herkansing</summary>
+
+## Herkansing
+Om met mijn herkansing te beginnen heb ik eerst nog eens gekeken naar wat ik gemaakt heb. Ik heb de content die ik heb beter responsive gemaakt en als het groter word dan 900 pixels komt dit nu in 2 kolommen te staan. Dit maakt de pagina beter responsive en nu veranderd de layout ook echt van de pagina. Dit heb ik gedaan met gebruik van media query's en css grid.
+
+<img src="images/columnsp.png" width="375px" alt="Responsive">
+
+### Terug kijken naar toegankelijkheid
+Daarna heb ik nog eens goed gekeken naar de toegankelijksheidsonderzoek. Ik heb het niet kunnen oplossen dat het menu goed werkt met de tab toets. Inplaats daar van heb ik een knop toegevoegd die alleen te zien is als je de website gebruikt met de tab toets. Deze laat je gelijk naar de content gaan.
+
+<img src="images/contentknop.png" width="375px" alt="Content knop">
+
+Vervolgens heb ik ook nog een dark mode toegevoegd aan de pagina.
+
+### Meer content
+Om meer content toe te voegen heb ik nog eens naar de nu pagina gekeken om te kijken wat ik nog allemaal kan toevoegen. Ik ben begonnen met een klein stukje die het weer laat zien. Het plaatje heb ik gedaan met SVG. De pagina van nu had nog wel meer verschillende plaatjes als SVG, maar ik wou deze niet allemaal kopiëren omdat ik niet precies wist hoe deze in elkaar zaten. Ik heb gebruik gemaakt van de SVG zodat dit ook werkt met light en dark mode.
+
+<img src="images/widgets.png" width="375px" alt="widgets">
+
+Vervolgens heb ik een FAQ stukje gemaakt. Dit stond zelf niet op de nu pagina, maar ik wou een keer gebruik maken van de details en summary elements. De vragen en antwoord heb ik wel van de nu pagina.
+
+<img src="images/faqcontent.png" width="375px" alt="FAQ">
+
+Ook heb ik nog gebruik gemaakt van de :invalid selector op de login pagina om aan te geven als een email niet klopt. Ik wou hier graag ook nog tekst aan toevoegen, maar dat is helaas niet gelukt. Als laatst heb ik nog meer hovers en animaties toegevoegd om het visueel nog wat beter te maken.
+
+
+### Screenshot(s)
+
+Screenshots eindresultaat na herkansing.
+
+
+<img src="images/resultaat7.png" width="375px" alt="Eindresultaat">
+
+<img src="images/resultaat8.png" width="375px" alt="Eindresultaat">
+
+<img src="images/resultaat9.png" width="375px" alt="Eindresultaat">
+
+<img src="images/resultaat10.png" width="375px" alt="Eindresultaat">
+
+<img src="images/resultaat11.png" width="375px" alt="Eindresultaat">
+
+<img src="images/resultaat12.png" width="375px" alt="Eindresultaat">
+
+</details>
 
 
 
@@ -254,5 +296,7 @@ hier screenshot(s) van je eindresultaat
 1. https://www.nu.nl/     | Als pagina 1 van mijn website, en de login pagina als pagina 2
 2.  https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/  | Om meer te weten to komen over Grid
 3. https://css-tricks.com/snippets/css/a-guide-to-flexbox/   | Voor Flexbox
-
+4. https://css-tricks.com/snippets/css/complete-guide-grid/   | Voor Grid
+5. https://css-tricks.com/using-svg/      | Gebruik van SVG op homepage
+6. https://css-tricks.com/how-to-create-a-skip-to-content-link/   | De naar content button voor gebruik met tab toets
 </details>

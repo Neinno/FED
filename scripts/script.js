@@ -7,4 +7,3 @@ function formZien() {
   let formTonen = document.querySelector("form"); 
   formTonen.classList.toggle("showMenu"); 
 }
-
